@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @auphoff
 - 👀 I’m interested in database engineering, SQL programming, full stack development, and web development.
-- 🌱 I’m currently learning JavaScript and middleware and APIs.
+- 🌱 I’m currently learning JavaScript, middleware and APIs.
 - 💞️ I’m looking to collaborate on \null.
 - 📫 How to reach me:
 -         E-Mail:   antonuphoff@gmail.com
